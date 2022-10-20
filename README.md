@@ -16,10 +16,6 @@
 # Audit scope
 
 ```
-./lib/astaria-gpl/src/interfaces/IWETH9.sol
-./lib/astaria-gpl/src/interfaces/IERC721.sol
-./lib/astaria-gpl/src/interfaces/ITransferProxy.sol
-./lib/astaria-gpl/src/interfaces/IAuctionHouse.sol
 ./lib/astaria-gpl/src/utils/SafeCastLib.sol
 ./lib/astaria-gpl/src/ERC4626-Cloned.sol
 ./lib/astaria-gpl/src/ERC721.sol

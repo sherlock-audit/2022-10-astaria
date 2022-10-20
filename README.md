@@ -9,9 +9,9 @@
 
 # Resources
 
-[Docs](https://docs.astaria.xyz/docs/intro)
-[Twitter](https://twitter.com/AstariaXYZ)
-[Website](https://astaria.xyz/)
+- [Docs](https://docs.astaria.xyz/docs/intro)
+- [Twitter](https://twitter.com/AstariaXYZ)
+- [Website](https://astaria.xyz/)
 
 # Audit scope
 

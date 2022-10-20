@@ -16,7 +16,6 @@
 # Audit scope
 
 ```
-./lib/astaria-gpl/src/utils/SafeCastLib.sol
 ./lib/astaria-gpl/src/ERC4626-Cloned.sol
 ./lib/astaria-gpl/src/ERC721.sol
 ./lib/astaria-gpl/src/AuctionHouse.sol
@@ -26,8 +25,6 @@
 ./src/PublicVault.sol
 ./src/LiquidationAccountant.sol
 ./src/AstariaRouter.sol
-./src/scripts/deployments/Deploy.sol
-./src/scripts/deployments/TestnetConstants.sol
 ./src/TransferProxy.sol
 ./src/VaultImplementation.sol
 ./src/LienToken.sol

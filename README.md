@@ -9,26 +9,28 @@
 
 # Resources
 
-TBD
+[Docs](https://docs.astaria.xyz/docs/intro)
+[Twitter](https://twitter.com/AstariaXYZ)
+[Website](https://astaria.xyz/)
 
 # Audit scope
 
-
-[astaria-gpl](https://github.com/AstariaXYZ/astaria-gpl)
-
-[astaria-core](https://github.com/sherlock-audit/2022-10-astaria)
-
-All contracts in these repos are in scope unless specified below
-
-Not in scope
-
 ```
-
-libraries/Base64.sol
-libraries/CollateralLookup.sol
-scripts/deployments/strategies/*
-utils
-test
+./lib/astaria-gpl/src/ERC4626-Cloned.sol
+./lib/astaria-gpl/src/ERC721.sol
+./lib/astaria-gpl/src/AuctionHouse.sol
+./src/strategies/UniqueValidator.sol
+./src/strategies/CollectionValidator.sol
+./src/strategies/UNI_V3Validator.sol
+./src/PublicVault.sol
+./src/LiquidationAccountant.sol
+./src/AstariaRouter.sol
+./src/TransferProxy.sol
+./src/VaultImplementation.sol
+./src/LienToken.sol
+./src/CollateralToken.sol
+./src/security/V3SecurityHook.sol
+./src/WithdrawProxy.sol
 ```
 
 # Astaria Docs

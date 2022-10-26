@@ -6,7 +6,7 @@ libs = ['lib']
 fs_permissions = [{ access = "read-write", path = "./"}]
 remappings = [
     'solmate/=lib/solmate/src/',
-    'gpl/=lib/gpl/src/',
+    'gpl/=lib/astaria-gpl/src/',
     'clones-with-immutable-args/=lib/clones-with-immutable-args/src/',
 ]
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
